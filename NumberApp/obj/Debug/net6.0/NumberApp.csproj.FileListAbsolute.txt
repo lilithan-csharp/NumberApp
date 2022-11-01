@@ -1,0 +1,15 @@
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\bin\Debug\net6.0\NumberApp.exe
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\bin\Debug\net6.0\NumberApp.deps.json
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\bin\Debug\net6.0\NumberApp.runtimeconfig.json
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\bin\Debug\net6.0\NumberApp.dll
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\bin\Debug\net6.0\NumberApp.pdb
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.csproj.AssemblyReference.cache
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.AssemblyInfoInputs.cache
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.AssemblyInfo.cs
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.csproj.CoreCompileInputs.cache
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.dll
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\refint\NumberApp.dll
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.pdb
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\NumberApp.genruntimeconfig.cache
+C:\Users\lilithan\source\repos\NumberApp\NumberApp\obj\Debug\net6.0\ref\NumberApp.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberApp", "NumberApp\NumberApp.csproj", "{52BC7AB5-9A46-4662-A937-414C81E7945C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberAppService.Test", "NumberAppService.Test\NumberAppService.Test.csproj", "{06439119-6C00-4F78-8E1B-5C1639C954F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52BC7AB5-9A46-4662-A937-414C81E7945C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BC7AB5-9A46-4662-A937-414C81E7945C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BC7AB5-9A46-4662-A937-414C81E7945C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BC7AB5-9A46-4662-A937-414C81E7945C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06439119-6C00-4F78-8E1B-5C1639C954F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06439119-6C00-4F78-8E1B-5C1639C954F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06439119-6C00-4F78-8E1B-5C1639C954F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06439119-6C00-4F78-8E1B-5C1639C954F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7173D851-BD6E-42E6-920A-C4EE4E350359}
+	EndGlobalSection
+EndGlobal
